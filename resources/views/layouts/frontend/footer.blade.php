@@ -1,6 +1,6 @@
  	 <footer class="footer mt-4">
 
-    	<div style="background-image:url('{{asset('frontend/image/footer.png')}}');background-repeat:no-repeat;background-size:cover;background-position:center">
+    	<div class="footer_img" style="background-image:url('{{asset('frontend/image/footer.png')}}');">
     		<div class="row text-center">
     			<h3></h3>
     			<div class="col-md-3 map"  style="position: relative; top: 35px; left: 2%;">
@@ -14,7 +14,7 @@
 
     				<hr id="border1" style=" border-color: black; margin-top:2%; width:90%;"> 
 
-    				<div id="links" style="padding-top:30px;">
+    				<div id="links">
 
     					<i class="fa fa-angle-right"  aria-hidden="true"></i>
     					<a href="#" class="option">NID correction form-2</a><br>

@@ -628,6 +628,15 @@ color: #ffffff;
 .footer {
 	padding-top:30px;
 }
+
+.footer_img {
+	/* background-image: url(http://127.0.0.1:8000/frontend/image/footer.png); */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center center;
+    background-clip: border-box;
+    background-attachment: fixed;
+}
 #border1 {
   display: block;
   unicode-bidi: isolate;
@@ -648,10 +657,7 @@ color: #ffffff;
 }
 
 #icon1 {
-
-
 	background-color: #68b2ff; 
-  
 	border: 2px solid #ffffff;
 	color: white;
 	padding: 15px;
@@ -668,21 +674,33 @@ color: #ffffff;
   
   }
   
-  .option {
-	  color:black;
+  #links {
+	
+	font-size: 20px;
+	font-style: bold;
+	text-align: left;
+	text-decoration: none;
+	padding-top:30px;
+
+  }
+  #links a:hover {
+	color: grey;
+	text-decoration: none;
   }
   
-  .option:hover {
-	  color: grey;
-  
-  }
-  
+  #links a {
+	
+	color:black;
+
+}
   .line-decoration {
 	  float:left;
 	  width: 100px;
   
   }
-
+/* .footer{
+	display: none;
+} */
 
 
 
