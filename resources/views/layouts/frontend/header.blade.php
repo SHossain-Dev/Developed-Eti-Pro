@@ -29,7 +29,7 @@
 <header>
 
   <!-- Header with Background Slider -->
-  <nav class= "navbar sticky navbar-light bg-light main-nav" >
+  <nav class="navbar sticky navbar-light bg-light main-nav">
       <div class="container">
           <div class="float-left">
               <img class="navbar-brand logo_eti" src="{{ asset('frontend/image/logo.png')}}" alt="logo">
@@ -181,10 +181,7 @@
           About Us
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <!--<iframe height="300px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>-
-
-          <a herf="#down" style="border-top:450px; width:80%; height: 700px;"></a>-->
-          <a id="down" class="dropdown-item" herf="{{url('/intro')}}" >Introducing Eti</a>
+          <a class="dropdown-item" href="{{url('/intro')}}">Introducing Eti</a>
           <a class="dropdown-item" href="{{url('/mission')}}">Mission Vision</a>
           <a class="dropdown-item" href="{{url('/Stat_training')}}">Statistics Of training</a>
           <a class="dropdown-item" href="{{url('/Ex_dg')}}"> Former Director/DG</a>

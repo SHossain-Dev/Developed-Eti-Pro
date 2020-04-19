@@ -9,7 +9,7 @@
     				</div>
     			</div>
 
-    			<div class="col-md-3"  style=" margin:0px; padding-top:2%;">
+    			<div class="col-md-3" style=" margin:0px; margin-top:10px; padding-top:2%;border-right:1px solid black">
 					<h4 style="margin-right:25%;">Featured Links</h4>
 
     				<hr id="border1" style=" border-color: black; margin-top:2%; width:90%;"> 
@@ -35,10 +35,7 @@
     				
     			</div>
 
-    			
-
-
-    			<div class="col-md-3"  style=" margin:0px; padding-top:2%;">
+    			<div class="col-md-3" style=" margin:0px;margin-top:10px; padding-top:2%;border-right:1px solid black">
     				<h4 style="float:left;">Form Download</h4>
     				<hr id="border1" style=" border-color: black; padding:0px;margin:0px; margin-top:12%;  width:90%;">
     				
@@ -91,11 +88,9 @@
     				</div>
 
     				<!--<div id="verticle-line1"> </div>-->
-    			</div>
-
-
-
-    			<div class="col-md-3" style=" margin:0px; padding-top:2%;">
+				</div>
+				
+    			<div class="col-md-3" style=" margin:0px;margin-top:10px; padding-top:2%;">
     				<h4 style="float:left;">Find Us</h4>
     				<hr id="border1" style=" border-color: black; padding:0px;margin:0px; margin-top:12%;  width:90%; margin-bottom:15%;">
     				<div>

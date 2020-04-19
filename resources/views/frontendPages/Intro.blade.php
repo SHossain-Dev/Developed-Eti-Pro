@@ -18,22 +18,6 @@
 @endsection
 @push('custom-css')
 	<style type="text/css">
-    body {
-    	
-      margin: 5%;
-      margin-top: 0%;
-      margin-bottom: 0%;    
-  }
-
-    .ribbon_bookmark {
-    background: #ffffff;
-    top: 0px;
-    left: -16px;
-    font-size: 17px;
-  }
-  .navbar-light{
-    padding: 0px;
-  }
 	</style>
 @endpush
 
